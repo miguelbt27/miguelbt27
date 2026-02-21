@@ -56,6 +56,7 @@ Conquistar uma oportunidade como Desenvolvedor Júnior ou Estagiário na área d
 ## 📫 Contato
 
 📧 miguelbella27@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/miguel-bella-teixeira-19a213326/
 ---
 
