@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-💻 Foco em Back-end e Banco de Dados <br>
+💻 Foco em Análise de Sistemas e Banco de Dados <br>
 📊 Conhecimento em SQL, Python e Lógica de Programação <br>
 🚀 Buscando minha primeira oportunidade na área de TI
 </p>
