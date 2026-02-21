@@ -36,7 +36,9 @@ Estou sempre buscando evoluir tecnicamente e desenvolver projetos que reforcem m
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
 </p>
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50"/>
+</p>
 
 ---
 
