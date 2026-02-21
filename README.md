@@ -1,16 +1,145 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou Miguel</h1>
 
-<!--
-**miguelbt27/miguelbt27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
+💻 Foco em Back-end e Banco de Dados <br>
+📊 Conhecimento em SQL, Python e Lógica de Programação <br>
+🚀 Buscando minha primeira oportunidade na área de TI
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou estudante de ADS apaixonado por tecnologia e resolução de problemas.  
+Tenho foco em desenvolvimento back-end e banco de dados, com experiência prática em:
+
+- Consultas SQL (SELECT, JOIN, WHERE, ORDER BY, GROUP BY)
+- Manipulação e modelagem de banco de dados
+- Lógica de programação com Python
+- Estruturas condicionais e de repetição
+- Versionamento com Git e GitHub
+
+Estou sempre buscando evoluir tecnicamente e desenvolver projetos que reforcem meu aprendizado.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelbt27&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelbt27&layout=compact&theme=github_dark&hide_border=true"/>
+</div>
+
+---
+
+## 🛠 Tecnologias e Ferramentas
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
+</p>
+
+---
+
+## 📚 Atualmente Estudando
+
+- Estrutura de Dados
+- Banco de Dados Avançado
+- Desenvolvimento Back-end
+- Boas práticas de código
+
+---
+
+## 📈 Objetivo
+
+Conquistar uma oportunidade como Desenvolvedor Júnior ou Estagiário na área de TI, onde eu possa aplicar meus conhecimentos em banco de dados e programação, além de continuar evoluindo profissionalmente.
+
+---
+
+## 📫 Contato
+
+📧 SeuEmail@gmail.com  
+💼 LinkedIn: <h1 align="center">Olá 👋, eu sou Miguele Hed</h1>
+
+<p align="center">
+🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
+💻 Foco em Back-end e Banco de Dados <br>
+📊 Conhecimento em SQL, Python e Lógica de Programação <br>
+🚀 Buscando minha primeira oportunidade na área de TI
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+Sou estudante de ADS apaixonado por tecnologia e resolução de problemas.  
+Tenho foco em desenvolvimento back-end e banco de dados, com experiência prática em:
+
+- Consultas SQL (SELECT, JOIN, WHERE, ORDER BY, GROUP BY)
+- Manipulação e modelagem de banco de dados
+- Lógica de programação com Python
+- Estruturas condicionais e de repetição
+- Versionamento com Git e GitHub
+
+Estou sempre buscando evoluir tecnicamente e desenvolver projetos que reforcem meu aprendizado.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+</div>
+
+---
+
+## 🛠 Tecnologias e Ferramentas
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
+</p>
+
+---
+
+## 📚 Atualmente Estudando
+
+- Estrutura de Dados
+- Banco de Dados Avançado
+- Desenvolvimento Back-end
+- Boas práticas de código
+
+---
+
+## 📈 Objetivo
+
+Conquistar uma oportunidade como Desenvolvedor Júnior ou Estagiário na área de TI, onde eu possa aplicar meus conhecimentos em banco de dados e programação, além de continuar evoluindo profissionalmente.
+
+---
+
+## 📫 Contato
+
+📧 miguelbella27@gmail.com
+💼 LinkedIn: (https://www.linkedin.com/in/miguel-bella-teixeira-19a213326/)
+
+---
+
+<p align="center">
+🔥 Sempre evoluindo um commit por vez.
+</p> 
+
+---
+
+<p align="center">
+🔥 Sempre evoluindo um commit por vez.
+</p>
