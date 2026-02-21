@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Miguele Hed</h1>
+<h1 align="center">Olá 👋, eu sou Miguel Bella Teixeira</h1>
 
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
