@@ -21,7 +21,7 @@ Estou sempre buscando evoluir tecnicamente e desenvolver projetos que reforcem m
 
 ---
 
-## 🛠 Tecnologias e Ferramentas
+## 🛠 Linguagens e Ferramentas
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
