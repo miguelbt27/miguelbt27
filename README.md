@@ -14,11 +14,13 @@
 Sou estudante de ADS apaixonado por tecnologia e resolução de problemas.  
 Tenho foco em desenvolvimento back-end e banco de dados, com experiência prática em:
 
-- Consultas SQL (SELECT, JOIN, WHERE, ORDER BY, GROUP BY)
-- Manipulação e modelagem de banco de dados
-- Lógica de programação com Python
-- Estruturas condicionais e de repetição
-- Versionamento com Git e GitHub
+• Conhecimento básico/intermediário em Python
+• Conhecimento básico em linguagem C
+• Conhecimento básico/intermediário em Banco de Dados (SQL)
+• Conhecimento básico/intermediário em MySQL
+• Conhecimento básico/intermediário em HTML e CSS
+• Conhecimento básico em JavaScript
+• Conhecimento básico em C#
 
 Estou sempre buscando evoluir tecnicamente e desenvolver projetos que reforcem meu aprendizado.
 
