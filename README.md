@@ -11,16 +11,17 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de ADS apaixonado por tecnologia e resolução de problemas.  
+Sou estudante de ADS apaixonado por tecnologia e resolução de problemas.
+
 Tenho foco em desenvolvimento back-end e banco de dados, com experiência prática em:
 
-• Conhecimento básico/intermediário em Python
-• Conhecimento básico em linguagem C
-• Conhecimento básico/intermediário em Banco de Dados (SQL)
-• Conhecimento básico/intermediário em MySQL
-• Conhecimento básico/intermediário em HTML e CSS
-• Conhecimento básico em JavaScript
-• Conhecimento básico em C#
+• Conhecimento básico/intermediário em Python <br>
+• Conhecimento básico em linguagem C <br>
+• Conhecimento básico/intermediário em Banco de Dados (SQL) <br>
+• Conhecimento básico/intermediário em MySQL <br>
+• Conhecimento básico/intermediário em HTML e CSS <br>
+• Conhecimento básico em JavaScript <br>
+• Conhecimento básico em C# <br>
 
 Estou sempre buscando evoluir tecnicamente e desenvolver projetos que reforcem meu aprendizado.
 
